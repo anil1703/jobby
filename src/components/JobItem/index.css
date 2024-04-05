@@ -1,0 +1,88 @@
+.job-solo-main {
+  min-height: 100vh;
+  background-color: black;
+  padding-bottom: 20px;
+}
+.job-submain {
+  margin: 30px;
+  background-color: #272727;
+  border-radius: 12px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.desc-div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.anchor {
+  color: #b6c5ff;
+  text-decoration: none;
+}
+.abc {
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+}
+.skills-ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.skills-ul li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.lifeAtCompany {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.lifeAtCompany p {
+  width: 800px;
+}
+.simi-li {
+  background-color: #272727;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: white;
+  padding: 20px;
+  width: 300px;
+  border-radius: 12px;
+  gap: 10px;
+}
+.similar-ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 30px;
+}
+.gfh {
+  margin-left: 30px;
+}
+.error-job {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 20px;
+}
+.retry-butn-style {
+  color: white;
+  border: none;
+  background-color: #6366f1;
+  height: 40px;
+  width: 120px;
+  border-radius: 8px;
+}

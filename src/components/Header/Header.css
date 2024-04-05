@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: #272727;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 20px;
+}
+
+.navbar-logo {
+  height: 40px;
+  margin-left: 35px;
+  cursor: pointer;
+}
+.two {
+  color: white;
+  display: flex;
+  gap: 10px;
+}
+.login-butn-style1 {
+  background-color: #6366f1;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  padding: 10px;
+  cursor: pointer;
+  margin-right: 30px;
+}
+.Link {
+  text-decoration: none;
+  color: white;
+}
+@media (max-width: 576px) {
+  .navbar-logo {
+    margin-left: 0px;
+  }
+  .login-butn-style1 {
+    margin-right: 0px;
+  }
+}

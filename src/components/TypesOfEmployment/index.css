@@ -1,0 +1,17 @@
+.typesHead {
+  font-size: 20px;
+  color: white;
+  margin-bottom: 12px;
+}
+.typeOful {
+  list-style: none;
+}
+.typesLi {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.typesLi label {
+  margin-top: 8px;
+}

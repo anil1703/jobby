@@ -1,0 +1,56 @@
+.JobsLi {
+  background-color: #272727;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 10px;
+  color: white;
+  padding: 15px;
+  gap: 10px;
+}
+.list-one {
+  display: flex;
+  gap: 10px;
+}
+.logo-job-style {
+  height: 50px;
+}
+.list-head {
+  font-size: 18px;
+}
+.start-logo {
+  color: #fbbf24;
+  margin-top: 10px;
+}
+.JobsLi label {
+  margin-left: 4px;
+  margin-top: -7px;
+}
+.list-two {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 5px;
+}
+.moss {
+  display: flex;
+  gap: 20px;
+}
+.job-head {
+  font-size: 15px;
+}
+.job-para {
+  font-size: 15px;
+  color: #cbd5e1;
+}
+.updated-div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.updated-para {
+  margin-top: 11px;
+}
+.link-style-jobs {
+  text-decoration: none;
+}
