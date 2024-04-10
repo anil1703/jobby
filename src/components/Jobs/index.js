@@ -1,6 +1,6 @@
 import {Component} from 'react'
 import Cookies from 'js-cookie'
-import Loader from 'react-spinner-loader'
+import Loader from 'react-loader-spinner'
 import {BiSearch} from 'react-icons/bi'
 import Header from '../Header/Header'
 import TypesOfEmployment from '../TypesOfEmployment/index'
